@@ -1,10 +1,10 @@
 import CustomerReviews from './CustomerReviews.section'
 import Footer from './Footer.section'
 import Hero from './Hero.section'
-import PopularProducts from './CustomerReviews.section'
+import PopularProducts from './PopularProducts.section'
 import Services from './Services.section'
-import SpecialOffer from './CustomerReviews.section'
-import Subscribe from './CustomerReviews.section'
+import SpecialOffer from './SpeicalOffer.section'
+import Subscribe from './Subscribe.section'
 import SuperQuality from './SuperQuality.section'
 
 export {
